@@ -1,5 +1,5 @@
 # Hugo
-title = "Lapak Sudar Cell"
+title = "Sudar Cell Blog"
 description = "Tempat Jual Beli Pulsa, Token Listrik, Paket Data, Top Up E- Wallet,dll"
 images = ["cover.png"]
 
@@ -21,7 +21,7 @@ mainSections = ["blog"]
 
   ## Button
   navBarButton = false # false (default) or true
-  navBarButtonUrl = "www.sudarblogger.com"
+  navBarButtonUrl = "https://www.sudarblogger.com"
   navBarButtonText = "Get started"
 
   # FlexSearch
