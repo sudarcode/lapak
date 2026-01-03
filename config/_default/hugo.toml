@@ -1,5 +1,5 @@
-title = "My Docs"
-baseurl = "http://localhost/"
+title = "Sudar Cell"
+baseurl = "https://lapak-671.pages.dev/"
 disableAliases = true
 disableHugoGeneratorInject = true
 # disableKinds = ["taxonomy", "term"]
