@@ -1,7 +1,7 @@
 ---
 title: "Sudar Cell"
 description: "Tempat Menjual Pulsa, Paket Data, Top Up, Token Listrik, dll"
-lead: "Congrats on setting up a new Doks project!"
+lead: "Tempat Menjual Pulsa, Paket Data, Top Up, Token Listrik, dll"
 date: 2023-09-07T16:33:54+02:00
 lastmod: 2023-09-07T16:33:54+02:00
 draft: false
